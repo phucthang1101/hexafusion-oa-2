@@ -4,4 +4,3 @@ python-dotenv
 requests
 cohere
 gunicorn
-sqlite3
